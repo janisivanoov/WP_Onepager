@@ -1,6 +1,5 @@
 === Onepage Builder - Easiest Landing Page Builder For WordPress ===
 Contributors: themexpert, nadimtuhin, themesgrove, parvezvai, shamsbd71, anam_themexpert
-Donate link: https://themesgrove.com/wp-onepager
 Tags: landing page, page builder, coming soon page, onepage, launch page, under construction page, onepage builder, sales page, business landing page, lead generation page, consulting landing page, service landing page, book launch page, webinar page, case study page, portfolio page, responsive page, coming soon page, app landing page, startup landing page, information product page, event landing page, seminar landing page, maintenance mode, coming soon, under construction,launch, maintenance, construction, offline, unavailable
 Stable tag: %version%
 Requires at least: 5.0
@@ -14,7 +13,7 @@ Beginner Friendly Landing Page, Sales page, Onepage, Coming Soon Page Builder. Y
 
 = Easiest Landing Page Builder =
 
-We believe that you shouldn't have to hire a developer to create a landing page. That's why we built <a href="https://themesgrove.com/wp-onepager/?utm_source=wp-repo&utm_medium=link&utm_campaign=wponepager" rel="friend" title="WPOnepager">WPOnepager</a>, a drag & drop WordPress onepage builder that's EASY, POWERFUL and FAST.
+We believe that you shouldn't have to hire a developer to create a landing page. That's why we built WPOnepager, a drag & drop WordPress onepage builder that's EASY, POWERFUL and FAST.
 
 WPOnepager allow you to create beautiful landing page, sales page, webinar & event signup pages, lead generation page, and other type of pages in minutes, not hours!
 
@@ -22,14 +21,7 @@ At WPOnepager, user experience is our #1 priority. Our pre-built page templates 
 
 WPOnepager is a 100% mobile responsive, so all your landing pages will always look great on all devices (mobile, tablet, laptop, and desktop).
 
-WPOnepager' landing pages are also highly optimized for web and built using the web standards because we understand the importance of speed when it comes to SEO and conversion. We can honestly say that landing page you are going to make will be faster than your competitor.
-
-> <strong>WPOnepager Pro</strong><br />
-> This plugin is the core version of the WPOnepager Pro plugin that comes with all the premium landing pages, blocks and features you will ever need including full screen sections, multiple scroll animation, more animation for element, huge blocks collection, pre-made premium templates, form templates, and tons more. <a href="https://themesgrove.com/wp-onepager/?utm_source=wp-repo&utm_medium=link&utm_campaign=wponepager" rel="friend" title="WPOnepager">Click here to purchase the best premium WordPress onepage builder now!</a>
-
-We took the pain out of creating landing page and made it easy. Here's why smart business owners, designers, and developers love OnePagr, and you will too!
-
-https://www.youtube.com/watch?v=gJKIwp21dXs
+WPOnepager landing pages are also highly optimized for web and built using the web standards because we understand the importance of speed when it comes to SEO and conversion. We can honestly say that landing page you are going to make will be faster than your competitor.
 
 ### Benefits, Features and Options:
 
@@ -64,7 +56,6 @@ https://www.youtube.com/watch?v=gJKIwp21dXs
 * Import/Export Settings for backup or re-use purpose
 * Translation Ready i18n Support
 * HTML5 & CSS3 which degrades gracefully for older browsers
-* [Upgrade to the Pro Version Now!&raquo;](https://themesgrove.com/wp-onepager/?utm_source=wp-repo&utm_medium=link&utm_campaign=wponepager)
 
 = Type of WordPress landing page you can build with OnePager =
 
@@ -91,20 +82,12 @@ WPOnepager drag & drop page builder combined with our blocks is the most easiest
 * Résumé Landing Page
 * More...
 
-= What's Next =
-
-If you like this plugin, then consider checking out our other projects:
-
-* <a href="https://wordpress.org/plugins/widgetkit-for-elementor/">WidgetKit For Elementor</a> - The most advanced & powerful Elementor addons kit that enhances your website building capabilities by adding more elements and layouts.
-* <a href="https://themesgrove.com/education-wordpress-theme/" rel="friend" title="Education WordPress Theme">Education WordPress Theme</a> - Premium Education WordPress Themes Bundle. Perfect solution for school, college, university, and any educational institute.
-* <a href="https://themesgrove.com/free-one-page-responsive-wordpress-theme/" rel="friend" title="One Page WordPress Theme">One Page WordPress Theme</a> - Best free one page WordPress theme that support OnePager and WidgetKit out-of-the-box.
 
 == Installation ==
 
 1. Install WPOnepager either via the WordPress.org plugin repository or by uploading the files to your server.
 2. Activate WPOnepager.
 3. Navigate to the Pages tab from your admin menu and click the "Add New" button to begin creating your new WordPress landing page.
-4. Want more features? <a href="https://themesgrove.com/wp-onepager/?utm_source=wp-repo&utm_medium=link&utm_campaign=wponepager" rel="friend" title="WPOnepager">Purchase the WPOnepager Pro</a>!
 
 
 == Screenshots ==
